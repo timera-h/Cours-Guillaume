@@ -1,0 +1,8 @@
+.ma-premiere-grid{
+    display: grid;
+    min-height: 50vh;
+    background: red;
+    grid-template-columns: 200px 1fr 100px;
+    grid-template-rows: 100px ;
+    border: 1px solid black;
+}
